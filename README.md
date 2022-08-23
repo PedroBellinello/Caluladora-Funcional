@@ -1,3 +1,3 @@
 # Caluladora-Funcional
 Calculadora funcionar com HTML,CSS,JavaScript
-Calculadora basica feita utilizando HTML, CSS, JS com base nos estudos recentes que tenho feito
+Calculadora basica feita utilizando HTML, CSS, JS com base nos estudos recentes que tenho feito.
